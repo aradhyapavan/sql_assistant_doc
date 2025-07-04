@@ -21,6 +21,8 @@ SQL Assistant is an **Agentic AI-powered** web application that revolutionizes d
 - **Multi-Dialect Support**: Generate SQL compatible with various database systems
 - **Intelligent Schema Analysis**: Automatically understand and work with uploaded database structures
 - **Real-Time Execution**: Execute generated queries and display results in user-friendly formats
+- **Query Copy Functionality**: Easily copy generated SQL queries for use in other applications
+- **Example Query Library**: Pre-built query examples to test and explore database functionality
 - **Interactive Interface**: Provide an intuitive web-based platform for seamless database interaction
 
 ## 🛠️ Tools & Technologies
